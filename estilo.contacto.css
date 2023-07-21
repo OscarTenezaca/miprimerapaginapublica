@@ -1,0 +1,13 @@
+nav{
+    background-color: beige;
+}
+div{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: blanchedalmond;
+}
+footer{
+    color: black; background-color: bisque;
+}
